@@ -9,8 +9,8 @@ Dark green: #28b485
 
 * {
   margin: 0;
-  padding: 0;
-  box-sizing: inherit;
+  /* padding: 0; */
+  /* box-sizing: inherit; */
 }
 
 html {
