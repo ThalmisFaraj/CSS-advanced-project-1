@@ -140,7 +140,7 @@ body {
 }
 
 .btn--white:hover::after {
-  transform: scaleY(1.6) scaleX(1.4);
+  transform: scaleX(1.4) scaleY(1.6);
   opacity: 0;
 }
 
